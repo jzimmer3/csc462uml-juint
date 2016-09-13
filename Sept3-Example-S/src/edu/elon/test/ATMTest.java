@@ -1,4 +1,11 @@
-package edu.elon.test;
+/*
+ * ATMTest.java version September 13, 2016
+ *
+ * Copyright (c) 2016 John Zimmer, Elon University.
+ * Elon, North Carolina, 27244, U.S.A.
+ * All rights reserved.
+ *
+ */package edu.elon.test;
 
 import static org.junit.Assert.*;
 
